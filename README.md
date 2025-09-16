@@ -1,6 +1,7 @@
 SQL Developer Project
 
 This project demonstrates database creation and management using SSMS. It covers creating a database, defining tables and views, inserting data, and verifying data using SELECT queries.
+
 📋 Project Overview
 
 This project was developed to practice core SQL skills:
@@ -12,5 +13,6 @@ Inserting sample data into tables
 Retrieving and validating data using SELECT queries
 
 🛠️ Technologies Used
+
 SQL (Structured Query Language)
 SSMS
