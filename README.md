@@ -15,4 +15,5 @@ Retrieving and validating data using SELECT queries
 🛠️ Technologies Used
 
 SQL (Structured Query Language)
+
 SSMS
